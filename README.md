@@ -29,4 +29,4 @@ A simple data entry form built using Tkinter for the GUI and Openpyxl for Excel 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
